@@ -1,2 +1,3 @@
 # LearnPythonTheHardWay-Exercises
-All the exercises done so far in LPTHW (a work in progress)
+
+All the exercises completed when I first started learning Python from the book titled - Learn Python the Hard Way.
